@@ -7,3 +7,4 @@ class netsnmp::params {
       fail("${::osfamily} is not supported")
     }
   }
+}
